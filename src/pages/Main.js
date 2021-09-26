@@ -7,8 +7,8 @@ function Main(props) {
       <img className="rounded-l md:w-2/5 md:h-full"
            src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/3892e7104379431.5f61ca211f0c5.jpg"
            alt="About Coffee"/>
-                <div className="md:h-full rounded overflow-hidden bg-gray-200 p-1 rounded-tr-md justify-around shadow-lg">
-                  <img class="w-full h-48 " src="https://nl-nl.giesencoffeeroasters.eu/wp-content/uploads/2020/04/Overzicht-1024x683.png" alt="Coffee beans"/>
+                <div className="md:h-full rounded overflow-hidden bg-gray-200 p-1 justify-between shadow-lg">
+                  <img class="w-full h-48" src="https://nl-nl.giesencoffeeroasters.eu/wp-content/uploads/2020/04/Overzicht-1024x683.png" alt="Coffee beans"/>
                   <div class="px-6 py-4">
                     <div class="font-bold text-xl mb-2">Fresh Coffee Beans</div>
                     <p class="text-gray-700 text-base">
@@ -21,7 +21,9 @@ function Main(props) {
       
                   </div>
                 </div>
-                <div className="md:h-full rounded  bg-gray-200 p-1 rounded-tr-md justify-around shadow-lg">
+
+                
+                <div className="md:h-full rounded bg-gray-200 p-1 justify-between shadow-lg">
                   <img className="w-full h-48" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/latte-art-in-a-yellow-cup-on-a-marble-table-royalty-free-image-1592427210.jpg?crop=0.606xw:0.455xh;0.00801xw,0.275xh&resize=640:*" alt="Coffee beans"/>
                   <div className="px-6 py-4">
                     <div className="font-bold text-xl mb-2">Customize Your Favorite Espresso</div>
