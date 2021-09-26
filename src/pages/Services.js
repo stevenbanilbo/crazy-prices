@@ -3,10 +3,10 @@ import coffeehealth from '../images/coffeehealth.jpg'
 
 function Services(props) {
     return (
-        <div className="flex sm:flex-col md:flex-col lg:flex-row xl:flex-row">
+        <div className="flex flex-wrap sm:flex-col">
    <div className="w-full p-5 bg-gray-200">
    <div className="max-w-sm w-full lg:max-w-full lg:flex">
-  <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="alt-text"></img>
+  <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="coffee-health1"/>
   </div>
 
 
@@ -23,8 +23,8 @@ function Services(props) {
     <div className="flex items-center">
      
       <div className="text-sm">
-        <p className="text-gray-900 leading-none">Jonathan Reinink</p>
-        <p className="text-gray-600">Aug 18</p>
+        <p className="text-gray-900 leading-none">Steven</p>
+        <p className="text-gray-600">Dec 28</p>
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@ function Services(props) {
 
 <div className="w-full p-5 bg-gray-300">
    <div className="max-w-sm w-full lg:max-w-full lg:flex">
-  <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="Woman holding a mug"></img>
+  <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="coffeehealth2"/>
   </div>
 
 
@@ -53,8 +53,8 @@ function Services(props) {
     <div className="flex items-center">
      
       <div className="text-sm">
-        <p className="text-gray-900 leading-none">Jonathan Reinink</p>
-        <p className="text-gray-600">Aug 18</p>
+        <p className="text-gray-900 leading-none">Steven B.</p>
+        <p className="text-gray-600">May 3</p>
       </div>
     </div>
   </div>
@@ -62,7 +62,7 @@ function Services(props) {
    
 <div className="w-full p-5 bg-gray-400">
    <div className="max-w-sm w-full lg:max-w-full lg:flex">
-  <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="alt-text"></img>
+  <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="coffeehealth3"/>
   </div>
 
 
@@ -79,7 +79,7 @@ function Services(props) {
     <div className="flex items-center">
      
       <div className="text-sm">
-        <p className="text-gray-900 leading-none">Jonathan Reinink</p>
+        <p className="text-gray-900 leading-none">Steven Banilbo</p>
         <p className="text-gray-600">Aug 18</p>
       </div>
     </div>
