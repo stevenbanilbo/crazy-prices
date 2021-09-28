@@ -5,7 +5,7 @@ function Services(props) {
     return (
         <div className="flex flex-wrap sm:flex-col">
    <div className="w-full p-5 bg-gray-200">
-   <div className="max-w-sm w-full lg:max-w-full lg:flex">
+   <div className=" w-full lg:max-w-full lg:flex">
   <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="coffee-health1"/>
   </div>
 
@@ -35,7 +35,7 @@ function Services(props) {
  
 
 <div className="w-full p-5 bg-gray-300">
-   <div className="max-w-sm w-full lg:max-w-full lg:flex">
+   <div className=" w-full lg:max-w-full lg:flex">
   <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="coffeehealth2"/>
   </div>
 
@@ -61,7 +61,7 @@ function Services(props) {
 </div></div>
    
 <div className="w-full p-5 bg-gray-400">
-   <div className="max-w-sm w-full lg:max-w-full lg:flex">
+   <div className=" w-full lg:max-w-full lg:flex">
   <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="coffeehealth3"/>
   </div>
 
