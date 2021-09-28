@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crazy-prices/static/css/main.41c6cf4c.chunk.css",
+    "main.js": "/crazy-prices/static/js/main.23a97de3.chunk.js",
+    "main.js.map": "/crazy-prices/static/js/main.23a97de3.chunk.js.map",
+    "runtime-main.js": "/crazy-prices/static/js/runtime-main.dbc494ca.js",
+    "runtime-main.js.map": "/crazy-prices/static/js/runtime-main.dbc494ca.js.map",
+    "static/js/2.5f4f298e.chunk.js": "/crazy-prices/static/js/2.5f4f298e.chunk.js",
+    "static/js/2.5f4f298e.chunk.js.map": "/crazy-prices/static/js/2.5f4f298e.chunk.js.map",
+    "static/js/3.e00e2771.chunk.js": "/crazy-prices/static/js/3.e00e2771.chunk.js",
+    "static/js/3.e00e2771.chunk.js.map": "/crazy-prices/static/js/3.e00e2771.chunk.js.map",
+    "index.html": "/crazy-prices/index.html",
+    "static/css/main.41c6cf4c.chunk.css.map": "/crazy-prices/static/css/main.41c6cf4c.chunk.css.map",
+    "static/js/2.5f4f298e.chunk.js.LICENSE.txt": "/crazy-prices/static/js/2.5f4f298e.chunk.js.LICENSE.txt",
+    "static/media/coffeehealth.38c9bf8e.jpg": "/crazy-prices/static/media/coffeehealth.38c9bf8e.jpg",
+    "static/media/logo.c6b35560.png": "/crazy-prices/static/media/logo.c6b35560.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbc494ca.js",
+    "static/js/2.5f4f298e.chunk.js",
+    "static/css/main.41c6cf4c.chunk.css",
+    "static/js/main.23a97de3.chunk.js"
+  ]
+}
