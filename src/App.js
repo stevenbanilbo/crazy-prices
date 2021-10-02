@@ -8,11 +8,11 @@ import navbar from './components/navbar';
 function App() {
   return (
   <Router>
-    <Route path="/" component={navbar} />
+    <Route component={navbar}/>
       
   <div className="flex flex-row bg-gray-900 h-full"> <Route component={Main}></Route> </div>
   
-  <Route component={Services}></Route>
+  <Route component={Services}/>
  
 
 

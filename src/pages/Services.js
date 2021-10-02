@@ -3,9 +3,9 @@ import coffeehealth from '../images/coffeehealth.jpg'
 
 function Services(props) {
     return (
-        <div className="flex flex-wrap sm:flex-col">
+        <div className="flex flex-wrap sm:flex-col md:h-auto md:w-2/3 lg:w-full">
    <div className="w-full p-5 bg-gray-200">
-   <div className=" w-full lg:max-w-full lg:flex">
+   <div className="w-full  lg:max-w-full lg:flex ">
   <div className="h-48 lg:h-auto lg:w-48 flex text-center overflow-hidden"> <img src={coffeehealth} alt="coffee-health1"/>
   </div>
 
